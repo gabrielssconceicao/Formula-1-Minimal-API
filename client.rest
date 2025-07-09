@@ -1,0 +1,11 @@
+@url=http://localhost:3333
+
+###
+
+GET {{url}}/teams
+
+###
+GET {{url}}/drivers
+
+###
+GET {{url}}/drivers/ww1
